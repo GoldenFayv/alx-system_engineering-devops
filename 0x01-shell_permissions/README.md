@@ -9,3 +9,4 @@
 8-James_Bond  sets the permission to the file hello as follows: Owner: no permission at all; Group: no permission at all; Other users: all the permissions.
 9-John_Doe gives file owner all permission, group owner read and execute and other users write and execute.
 10-mirror_permissions sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
