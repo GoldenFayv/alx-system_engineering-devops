@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir me | chmod 751 me
+mkdir -m 751 my_dir
